@@ -1,1 +1,1 @@
-# first directory of the repo
+# first directory of the repository
